@@ -13,3 +13,13 @@ Tre push obbligatori:
 Suddividete il problema in sottoproblemi come vi ho fatto vedere per il live coding sul calcolo della data di nascita e messaggio di benvenuto mostrato in pagina
 Buon lavoro e buon weekend, a lunedì!
 P.S. Oggi come avete potuto notare, avrete due blocchi di slides (modificato) 
+
+
+
+<!-- ANALISI PROBLEMA -->
+
+1- Chiedere il nome al utente
+2-Chiedere il cognome al utente
+3-Chiedere il colore preferito al utente 
+4- eseguire l' unione delle tre variabile piu il numero 23
+5- dare in output al utente la password
