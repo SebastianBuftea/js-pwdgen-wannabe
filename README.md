@@ -22,4 +22,4 @@ P.S. Oggi come avete potuto notare, avrete due blocchi di slides (modificato)
 2-Chiedere il cognome al utente
 3-Chiedere il colore preferito al utente 
 4- eseguire l' unione delle tre variabile piu il numero 23
-5- dare in output al utente la password
+5- dare in output al utente sulla pagina la password
